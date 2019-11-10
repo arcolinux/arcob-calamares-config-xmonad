@@ -1,0 +1,2 @@
+# ArcoLinuxB-Xmonad Calamares configuration
+
