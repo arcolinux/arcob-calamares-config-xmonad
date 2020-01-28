@@ -87,6 +87,7 @@
   packages:
     - atom
     - code
+    - geany
     - geany-plugins
     - kdevelop
 - name: "Fonts"
